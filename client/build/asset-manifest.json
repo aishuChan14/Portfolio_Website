@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0da159b3.css",
+    "main.js": "/static/js/main.2709f8b9.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Profile.jpeg": "/static/media/Profile.ae205810a90c53259f92.jpeg",
+    "static/media/Aishwarya-Choudhari-CV.pdf": "/static/media/Aishwarya-Choudhari-CV.a928cbd832cab21cb6b5.pdf",
+    "index.html": "/index.html",
+    "main.0da159b3.css.map": "/static/css/main.0da159b3.css.map",
+    "main.2709f8b9.js.map": "/static/js/main.2709f8b9.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da159b3.css",
+    "static/js/main.2709f8b9.js"
+  ]
+}
